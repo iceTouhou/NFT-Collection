@@ -1,0 +1,16 @@
+{
+  "name": "icetouhou_avatar_01",
+  "title": "Cirno Avatar",
+  "subtitle": "Cirno BAKA!",
+  "description": "Avatar for iceTouhou group.",
+  "cid": "QmTcZcV79tAvvXQKyCxukpHFJQKWgQiN96Zup9VmZzjg3y",
+  "imageUrls": [
+    "https://ipfs.baka.cool/ipfs/QmTcZcV79tAvvXQKyCxukpHFJQKWgQiN96Zup9VmZzjg3y",
+    "https://ipfs.io/ipfs/QmTcZcV79tAvvXQKyCxukpHFJQKWgQiN96Zup9VmZzjg3y",
+    "https://cloudflare-ipfs.com/ipfs/QmTcZcV79tAvvXQKyCxukpHFJQKWgQiN96Zup9VmZzjg3y"
+  ],
+  "author": "182",
+  "tokenId": "900000009",
+  "tokenURI": "Qme3PxAANAXHNqmw4r1UV9uqgYdD7e3A8HcXYVE16ZpgQk",
+  "contract": "0x01f9f18013d333EbCEdd4638Ad136871e13eC00F",
+}
