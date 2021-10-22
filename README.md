@@ -1,1 +1,1 @@
-# A Repo for Touhou NFT.
+# A Repo for Touhou NFT ~
